@@ -1,0 +1,8 @@
+]0;barnabas@MintyFresh ~[01;32mbarnabas@MintyFresh[00m [01;34m~ $[00m          Rplots.pdf
+[01;34mApk[0m                    [01;34mopencv-3.1.0[0m                  [01;34mTemplates[0m
+[01;34mDesktop[0m                [01;34mopencv_contrib-3.1.0[0m          [01;34mtensorflow[0m
+[01;34mDocuments[0m              [01;31mopencv_contrib.zip[0m            [01;34mUnity-2018.1.0b8[0m
+[01;34mDownloads[0m              [01;31mopencv.zip[0m                    [01;34mVideos[0m
+[01;35mFirefox_wallpaper.png[0m  [01;34mPictures[0m                      [01;34mVirtualBox VMs[0m
+fun                    [01;36mPlayOnLinux's virtual drives[0m
+[01;34mintel[0m                  [01;34mPublic[0m
